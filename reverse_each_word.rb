@@ -1,7 +1,9 @@
 reverse_each_word(sentence)
  newsentence = []
- sentence.reverse_each  {|word| #{word}}
- newsentence << word
+ newsentence << sentence.split
+ newsentence.reverse_each 
+ 
+ 
  end
  newsentence
 end
