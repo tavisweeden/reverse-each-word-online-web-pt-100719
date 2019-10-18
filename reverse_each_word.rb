@@ -4,7 +4,8 @@ def reverse_each_word(sentence)
  newsentence.each do |word|
    word.reverse!
    
-  end
+end
+  newsentence.join(" ")
   binding.pry
 end
 
