@@ -3,9 +3,7 @@ reverse_each_word(sentence)
  newsentence << sentence.split("")
  newsentence.reverse_each do |word| #{word}
    
- 
- 
- end
+  end
  newsentence
 end
 
