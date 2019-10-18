@@ -6,5 +6,3 @@ reverse_each_word(sentence)
  newsentence
 end
 
-def reverse_each_word(sentence)
-  
