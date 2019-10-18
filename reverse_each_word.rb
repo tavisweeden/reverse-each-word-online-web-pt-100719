@@ -4,4 +4,5 @@ reverse_each_word(sentence)
  newsentence.reverse_each  {|word| print #{word}}
  
  end
+ newsentence
 end
