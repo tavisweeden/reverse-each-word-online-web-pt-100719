@@ -6,3 +6,4 @@ reverse_each_word(sentence)
  end
  newsentence
 end
+end
