@@ -4,5 +4,5 @@ reverse_each_word(sentence)
  newsentence << word 
 
  end
- newsentence
+ 
 end
