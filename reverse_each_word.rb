@@ -1,9 +1,8 @@
 require "pry"
 def reverse_each_word(sentence)
- newsentence = []
- newsentence << sentence.split(" ")
+ newsentence = sentence.split(" ") 
  binding.pry
- newsentence.reverse_each do |word| #{word}
+ newsentence.each do |word| 
    
   end
 end
